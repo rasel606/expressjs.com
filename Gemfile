@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'github-pages', group: :jekyll_plugins
-gem 'webrick'
+gem 'webrick', '>= 1.8.2'
 gem 'jekyll-github-metadata'
