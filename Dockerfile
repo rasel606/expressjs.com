@@ -1,5 +1,5 @@
 # Use the official Ruby image as the base
-FROM ruby:3.3.3
+FROM ruby:3.4.8
 
 # Install Jekyll and Bundler
 RUN gem install jekyll bundler
